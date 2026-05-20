@@ -1,7 +1,7 @@
 {
-  "version": "1.6.1",
-  "downloadUrl": "https://github.com/TraumaN55/AccionLegendariaLauncher/releases/download/v1.6.1/AccionLegendariaLauncher.zip",
-  "sha256": "a71db31a8b47f2ae6c5de413b883c02dd47d7bfefa668a8716351e8f0e4870dd",
+  "version": "1.6.2",
+  "downloadUrl": "https://github.com/TraumaN55/AccionLegendariaLauncher/releases/download/v1.6.2/AccionLegendariaLauncher.zip",
+  "sha256": "2ceb50d9d76e8c1815a6f5170a85bf5c054855a15d99fa62956f8ad8e157383c",
   "assetType": "zip",
   "mandatory": false,
   "notes": "Versión base del launcher antes de añadir autoactualización automática."
